@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dbt_local
+  annotations:
+    github.com/project-slug: chandu-zoomcamp/dbt_local
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
